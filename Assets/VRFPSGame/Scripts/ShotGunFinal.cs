@@ -19,6 +19,7 @@ public class ShotGunFinal : AWeapon {
 			curTime = circleTime;
 			F3DFXController.instance.DefaultFXType = FXtype;
 			F3DFXController.instance.Fire (this.firePoint, shell);
+			//debug
 		}
 
 	}
