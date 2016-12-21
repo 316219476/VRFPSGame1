@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FORGE3D/Sci-Fi Effects/Examples/01_turret_demo.unity
+  isLoaded: 1
+  isActive: 1
